@@ -18,9 +18,23 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
+            const { owner, repo } = context.repo;
+
+            // Verify the master branch exists before changing the default branch
+            try {
+              await github.rest.git.getRef({
+                owner,
+                repo,
+                ref: 'heads/master'
+              });
+            } catch (error) {
+              core.setFailed(`Branch 'master' does not exist in ${owner}/${repo}. Cannot set it as default.`);
+              return;
+            }
+
             await github.rest.repos.update({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
+              owner,
+              repo,
               default_branch: 'master'
             });
             console.log('Default branch successfully changed to master');

@@ -1,0 +1,26 @@
+name: Set Default Branch to Master
+
+on:
+  push:
+    branches:
+      - initial
+  workflow_dispatch:
+
+permissions:
+  administration: write
+
+jobs:
+  set-default-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set master as default branch
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            await github.rest.repos.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              default_branch: 'master'
+            });
+            console.log('Default branch successfully changed to master');

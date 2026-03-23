@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Application\VibeCodingTrailer.Application.Abstraction\VibeCodingTrailer.Application.Abstraction.csproj" />
+    <ProjectReference Include="..\..\Domain\VibeCodingTrailer.Domain\VibeCodingTrailer.Domain.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

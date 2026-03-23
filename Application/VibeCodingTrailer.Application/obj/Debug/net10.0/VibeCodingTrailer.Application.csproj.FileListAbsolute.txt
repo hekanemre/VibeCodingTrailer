@@ -1,0 +1,17 @@
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Application\VibeCodingTrailer.Application\obj\Debug\net10.0\VibeCodingTrailer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Application\VibeCodingTrailer.Application\obj\Debug\net10.0\VibeCodingTrailer.Application.AssemblyInfoInputs.cache
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Application\VibeCodingTrailer.Application\obj\Debug\net10.0\VibeCodingTrailer.Application.AssemblyInfo.cs
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Application\VibeCodingTrailer.Application\obj\Debug\net10.0\VibeCodingTrailer.Application.csproj.CoreCompileInputs.cache
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Application\VibeCodingTrailer.Application\bin\Debug\net10.0\VibeCodingTrailer.Application.deps.json
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Application\VibeCodingTrailer.Application\bin\Debug\net10.0\VibeCodingTrailer.Application.dll
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Application\VibeCodingTrailer.Application\bin\Debug\net10.0\VibeCodingTrailer.Application.pdb
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Application\VibeCodingTrailer.Application\bin\Debug\net10.0\VibeCodingTrailer.Application.Abstraction.dll
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Application\VibeCodingTrailer.Application\bin\Debug\net10.0\VibeCodingTrailer.Domain.dll
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Application\VibeCodingTrailer.Application\bin\Debug\net10.0\VibeCodingTrailer.Application.Abstraction.pdb
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Application\VibeCodingTrailer.Application\bin\Debug\net10.0\VibeCodingTrailer.Domain.pdb
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Application\VibeCodingTrailer.Application\obj\Debug\net10.0\VibeCodingTrailer.Application.csproj.AssemblyReference.cache
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Application\VibeCodingTrailer.Application\obj\Debug\net10.0\VibeCodi.D1F8A4A7.Up2Date
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Application\VibeCodingTrailer.Application\obj\Debug\net10.0\VibeCodingTrailer.Application.dll
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Application\VibeCodingTrailer.Application\obj\Debug\net10.0\refint\VibeCodingTrailer.Application.dll
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Application\VibeCodingTrailer.Application\obj\Debug\net10.0\VibeCodingTrailer.Application.pdb
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Application\VibeCodingTrailer.Application\obj\Debug\net10.0\ref\VibeCodingTrailer.Application.dll

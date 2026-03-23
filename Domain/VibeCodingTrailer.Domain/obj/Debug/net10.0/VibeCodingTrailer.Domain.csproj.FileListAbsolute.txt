@@ -1,0 +1,11 @@
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Domain\VibeCodingTrailer.Domain\bin\Debug\net10.0\VibeCodingTrailer.Domain.deps.json
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Domain\VibeCodingTrailer.Domain\bin\Debug\net10.0\VibeCodingTrailer.Domain.dll
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Domain\VibeCodingTrailer.Domain\bin\Debug\net10.0\VibeCodingTrailer.Domain.pdb
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Domain\VibeCodingTrailer.Domain\obj\Debug\net10.0\VibeCodingTrailer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Domain\VibeCodingTrailer.Domain\obj\Debug\net10.0\VibeCodingTrailer.Domain.AssemblyInfoInputs.cache
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Domain\VibeCodingTrailer.Domain\obj\Debug\net10.0\VibeCodingTrailer.Domain.AssemblyInfo.cs
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Domain\VibeCodingTrailer.Domain\obj\Debug\net10.0\VibeCodingTrailer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Domain\VibeCodingTrailer.Domain\obj\Debug\net10.0\VibeCodingTrailer.Domain.dll
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Domain\VibeCodingTrailer.Domain\obj\Debug\net10.0\refint\VibeCodingTrailer.Domain.dll
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Domain\VibeCodingTrailer.Domain\obj\Debug\net10.0\VibeCodingTrailer.Domain.pdb
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Domain\VibeCodingTrailer.Domain\obj\Debug\net10.0\ref\VibeCodingTrailer.Domain.dll

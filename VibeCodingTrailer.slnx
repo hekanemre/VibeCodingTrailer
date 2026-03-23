@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Application/">
+    <Project Path="Application/VibeCodingTrailer.Application.Abstraction/VibeCodingTrailer.Application.Abstraction.csproj" />
+    <Project Path="Application/VibeCodingTrailer.Application/VibeCodingTrailer.Application.csproj" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="Domain/VibeCodingTrailer.Domain/VibeCodingTrailer.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Infrastructure/VibeCodingTrailer.Persistence/VibeCodingTrailer.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="Presentation/VibeCodingTrailer.Api/VibeCodingTrailer.Api.csproj" />
+  </Folder>
+</Solution>

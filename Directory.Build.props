@@ -1,0 +1,14 @@
+<Project>
+  <PropertyGroup>
+    <!-- Disable parallel build to reduce memory pressure during build -->
+    <BuildInParallel>false</BuildInParallel>
+    <!-- Disable Roslyn server/shared compilation to reduce memory usage -->
+    <UseSharedCompilation>false</UseSharedCompilation>
+    <!-- Disable analyzers and live analysis to reduce memory and CPU usage during build -->
+    <RunAnalyzersDuringBuild>false</RunAnalyzersDuringBuild>
+    <RunAnalyzersDuringLiveAnalysis>false</RunAnalyzersDuringLiveAnalysis>
+    <EnableNETAnalyzers>false</EnableNETAnalyzers>
+    <!-- Use invariant globalization to avoid ICU issues on some environments -->
+    <InvariantGlobalization>true</InvariantGlobalization>
+  </PropertyGroup>
+</Project>

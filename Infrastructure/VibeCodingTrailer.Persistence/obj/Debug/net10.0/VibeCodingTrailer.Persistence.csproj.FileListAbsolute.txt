@@ -1,0 +1,17 @@
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Infrastructure\VibeCodingTrailer.Persistence\obj\Debug\net10.0\VibeCodingTrailer.Persistence.csproj.AssemblyReference.cache
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Infrastructure\VibeCodingTrailer.Persistence\obj\Debug\net10.0\VibeCodingTrailer.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Infrastructure\VibeCodingTrailer.Persistence\obj\Debug\net10.0\VibeCodingTrailer.Persistence.AssemblyInfoInputs.cache
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Infrastructure\VibeCodingTrailer.Persistence\obj\Debug\net10.0\VibeCodingTrailer.Persistence.AssemblyInfo.cs
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Infrastructure\VibeCodingTrailer.Persistence\obj\Debug\net10.0\VibeCodingTrailer.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Infrastructure\VibeCodingTrailer.Persistence\bin\Debug\net10.0\VibeCodingTrailer.Application.Abstraction.dll
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Infrastructure\VibeCodingTrailer.Persistence\bin\Debug\net10.0\VibeCodingTrailer.Domain.dll
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Infrastructure\VibeCodingTrailer.Persistence\bin\Debug\net10.0\VibeCodingTrailer.Application.Abstraction.pdb
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Infrastructure\VibeCodingTrailer.Persistence\bin\Debug\net10.0\VibeCodingTrailer.Domain.pdb
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Infrastructure\VibeCodingTrailer.Persistence\obj\Debug\net10.0\VibeCodi.4D0288F2.Up2Date
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Infrastructure\VibeCodingTrailer.Persistence\obj\Debug\net10.0\VibeCodingTrailer.Persistence.dll
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Infrastructure\VibeCodingTrailer.Persistence\obj\Debug\net10.0\refint\VibeCodingTrailer.Persistence.dll
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Infrastructure\VibeCodingTrailer.Persistence\obj\Debug\net10.0\VibeCodingTrailer.Persistence.pdb
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Infrastructure\VibeCodingTrailer.Persistence\bin\Debug\net10.0\VibeCodingTrailer.Persistence.deps.json
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Infrastructure\VibeCodingTrailer.Persistence\bin\Debug\net10.0\VibeCodingTrailer.Persistence.dll
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Infrastructure\VibeCodingTrailer.Persistence\bin\Debug\net10.0\VibeCodingTrailer.Persistence.pdb
+C:\Users\hekan\OneDrive\Masaüstü\VibeCoding\VibeCodingTrailer\Infrastructure\VibeCodingTrailer.Persistence\obj\Debug\net10.0\ref\VibeCodingTrailer.Persistence.dll

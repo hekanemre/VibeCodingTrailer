@@ -1,0 +1,42 @@
+/.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.ide
+.vscode/
+*.log
+*.sqlite
+*.db
+.nuget/
+TestResults/
+*.vsix
+*.nupkg
+.vscode/
+.DS_Store
+Thumbs.db
+.idea/
+*.suo
+*.tmp
+*.pid
+*.seed
+.env
+.env.*
+*.local
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Ignore OneDrive Temp files
+~$*
+
+# Ignore publish folder
+publish/
+
+# Ignore build output
+**/bin/
+**/obj/
